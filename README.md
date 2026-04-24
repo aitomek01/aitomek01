@@ -1,16 +1,21 @@
-## Hi there 👋
+# aitomek
 
-<!--
-**aitomek01/aitomek01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Narzędzia analityczne dla sektora finansowego · Python · API
 
-Here are some ideas to get you started:
+## Co buduję
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Automatyzacje i analizy oparte o dane rynkowe oraz publiczne polskie rejestry.
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## Projekty
+
+| Projekt | Opis | Status |
+|---|---|---|
+| [raport-gpw](https://github.com/aitomek01/raport-gpw) | Analiza portfela akcji GPW → raport Excel z wykresem | ✅ Gotowy |
+| firma-check | Weryfikacja firm: CEIDG · KRS · Biała Lista VAT | 🔨 W budowie |
